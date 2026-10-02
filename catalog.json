@@ -1,0 +1,420 @@
+[
+ {
+  "gameID": "blockbloom",
+  "name": "Block Bloom",
+  "tagline": "Block puzzle with juicy combos",
+  "emoji": "🧩",
+  "colorHex": "FFD93D"
+ },
+ {
+  "gameID": "colorpour",
+  "name": "Color Pour",
+  "tagline": "Sort the colors, clear your mind",
+  "emoji": "🧪",
+  "colorHex": "2DD4BF"
+ },
+ {
+  "gameID": "mergedrop",
+  "name": "Merge Drop",
+  "tagline": "Drop, merge, reach 2048 and beyond",
+  "emoji": "🔢",
+  "colorHex": "5B8CFF"
+ },
+ {
+  "gameID": "tiletrio",
+  "name": "Tile Trio",
+  "tagline": "Match three tiles, clear the board",
+  "emoji": "🀄️",
+  "colorHex": "F472B6"
+ },
+ {
+  "gameID": "popbloom",
+  "name": "Pop Bloom",
+  "tagline": "Tap groups, blast the board",
+  "emoji": "💥",
+  "colorHex": "FF5C6C"
+ },
+ {
+  "gameID": "screwsort",
+  "name": "Screw Sort",
+  "tagline": "Unscrew planks, sort the screws",
+  "emoji": "🔩",
+  "colorHex": "FF9F43"
+ },
+ {
+  "gameID": "hexastack",
+  "name": "Hexa Stack",
+  "tagline": "Stack hexes, merge colors",
+  "emoji": "⬡",
+  "colorHex": "A78BFA"
+ },
+ {
+  "gameID": "carjam",
+  "name": "Car Jam",
+  "tagline": "Clear the parking lot",
+  "emoji": "🚗",
+  "colorHex": "4ADE80"
+ },
+ {
+  "gameID": "bubblebloom",
+  "name": "Bubble Bloom",
+  "tagline": "Aim, pop, drop the bubbles",
+  "emoji": "🫧",
+  "colorHex": "5B8CFF"
+ },
+ {
+  "gameID": "solitairebloom",
+  "name": "Solitaire Bloom",
+  "tagline": "Classic Klondike, fresh look",
+  "emoji": "🃏",
+  "colorHex": "4ADE80"
+ },
+ {
+  "gameID": "pixelcross",
+  "name": "Pixel Cross",
+  "tagline": "Nonogram picture puzzles",
+  "emoji": "🧩",
+  "colorHex": "2DD4BF"
+ },
+ {
+  "gameID": "goodsshelf",
+  "name": "Goods Shelf",
+  "tagline": "Sort the goods, match three",
+  "emoji": "🛒",
+  "colorHex": "FF9F43"
+ },
+ {
+  "gameID": "sweetswap",
+  "name": "Sweet Swap",
+  "tagline": "Swap candies, crush rows",
+  "emoji": "🍬",
+  "colorHex": "F472B6"
+ },
+ {
+  "gameID": "sudokubloom",
+  "name": "Sudoku Bloom",
+  "tagline": "Daily sudoku, four difficulties",
+  "emoji": "🔢",
+  "colorHex": "A78BFA"
+ },
+ {
+  "gameID": "towerstack",
+  "name": "Tower Stack",
+  "tagline": "Tap in rhythm, stack the tower",
+  "emoji": "🏗️",
+  "colorHex": "FFD93D"
+ },
+ {
+  "gameID": "mergegarden",
+  "name": "Merge Garden",
+  "tagline": "Merge, grow, discover",
+  "emoji": "🌱",
+  "colorHex": "4ADE80"
+ },
+ {
+  "gameID": "idlebakery",
+  "name": "Idle Bakery",
+  "tagline": "Bake, upgrade, earn while away",
+  "emoji": "🥐",
+  "colorHex": "FF9F43"
+ },
+ {
+  "gameID": "dotlink",
+  "name": "Dot Link",
+  "tagline": "Connect the dots, clear the board",
+  "emoji": "🔵",
+  "colorHex": "5B8CFF"
+ },
+ {
+  "gameID": "floodbloom",
+  "name": "Flood Bloom",
+  "tagline": "Flood the board in one color",
+  "emoji": "🌊",
+  "colorHex": "2DD4BF"
+ },
+ {
+  "gameID": "pipeflow",
+  "name": "Pipe Flow",
+  "tagline": "Rotate pipes, let it flow",
+  "emoji": "🔧",
+  "colorHex": "A78BFA"
+ },
+ {
+  "gameID": "pairup",
+  "name": "Pair Up",
+  "tagline": "Connect matching pairs",
+  "emoji": "🀄",
+  "colorHex": "F472B6"
+ },
+ {
+  "gameID": "minebloom",
+  "name": "Mine Bloom",
+  "tagline": "Classic minesweeper, fresh look",
+  "emoji": "💣",
+  "colorHex": "FF5C6C"
+ },
+ {
+  "gameID": "wordbloom",
+  "name": "Word Bloom",
+  "tagline": "Find the hidden words",
+  "emoji": "🔤",
+  "colorHex": "FFD93D"
+ },
+ {
+  "gameID": "jigsawbloom",
+  "name": "Jigsaw Bloom",
+  "tagline": "Relaxing jigsaw puzzles",
+  "emoji": "🧩",
+  "colorHex": "F472B6"
+ },
+ {
+  "gameID": "knifetoss",
+  "name": "Knife Toss",
+  "tagline": "Tap, throw, split the log",
+  "emoji": "🔪",
+  "colorHex": "FF9F43"
+ },
+ {
+  "gameID": "bloombird",
+  "name": "Bloom Bird",
+  "tagline": "Tap to flap through the garden",
+  "emoji": "🐦",
+  "colorHex": "4ADE80"
+ },
+ {
+  "gameID": "numberlink",
+  "name": "Number Link",
+  "tagline": "Match pairs, clear the numbers",
+  "emoji": "🔟",
+  "colorHex": "5B8CFF"
+ },
+ {
+  "gameID": "brickbloom",
+  "name": "Brick Bloom",
+  "tagline": "Aim, bounce, break the bricks",
+  "emoji": "🧱",
+  "colorHex": "FF5C6C"
+ },
+ {
+  "gameID": "zendraw",
+  "name": "Zen Draw",
+  "tagline": "One line, every dot",
+  "emoji": "✏️",
+  "colorHex": "2DD4BF"
+ },
+ {
+  "gameID": "pulsedash",
+  "name": "Pulse Dash",
+  "tagline": "Jump to the beat, dodge the spikes",
+  "emoji": "⚡️",
+  "colorHex": "5B8CFF"
+ },
+ {
+  "gameID": "skyhop",
+  "name": "Sky Hop",
+  "tagline": "Bounce higher, reach the stars",
+  "emoji": "🚀",
+  "colorHex": "4ADE80"
+ },
+ {
+  "gameID": "melonmerge",
+  "name": "Melon Merge",
+  "tagline": "Drop fruits, merge to a melon",
+  "emoji": "🍉",
+  "colorHex": "4ADE80",
+  "slot": 33
+ },
+ {
+  "gameID": "huehop",
+  "name": "Hue Hop",
+  "tagline": "Tap through matching colors",
+  "emoji": "🎨",
+  "colorHex": "F472B6",
+  "slot": 34
+ },
+ {
+  "gameID": "swingstar",
+  "name": "Swing Star",
+  "tagline": "Hook, swing, fly to the finish",
+  "emoji": "🪢",
+  "colorHex": "5B8CFF",
+  "slot": 35
+ },
+ {
+  "gameID": "bloomrunner",
+  "name": "Bloom Runner",
+  "tagline": "Run, jump, stomp through worlds",
+  "emoji": "🏃",
+  "colorHex": "FF9F43",
+  "slot": 36
+ },
+ {
+  "gameID": "swarmsurvivor",
+  "name": "Swarm Survivor",
+  "tagline": "Survive the swarm, level up",
+  "emoji": "⚔️",
+  "colorHex": "FF5C6C",
+  "slot": 37
+ },
+ {
+  "gameID": "hoppyroad",
+  "name": "Hoppy Road",
+  "tagline": "Hop across roads and rivers",
+  "emoji": "🐸",
+  "colorHex": "4ADE80",
+  "slot": 38
+ },
+ {
+  "gameID": "snakesmash",
+  "name": "Snake Smash",
+  "tagline": "Guide the snake, smash the blocks",
+  "emoji": "🐍",
+  "colorHex": "2DD4BF",
+  "slot": 39
+ },
+ {
+  "gameID": "jetglide",
+  "name": "Jet Glide",
+  "tagline": "Hold to fly, dodge the lasers",
+  "emoji": "🚀",
+  "colorHex": "FFD93D",
+  "slot": 40
+ },
+ {
+  "gameID": "lanerush",
+  "name": "Lane Rush",
+  "tagline": "Swipe lanes, dodge trains",
+  "emoji": "🛹",
+  "colorHex": "A78BFA",
+  "slot": 41
+ },
+ {
+  "gameID": "spiraldrop",
+  "name": "Spiral Drop",
+  "tagline": "Fall through the spiral tower",
+  "emoji": "🌀",
+  "colorHex": "5B8CFF",
+  "slot": 42
+ },
+ {
+  "gameID": "madsaw",
+  "name": "Mad Saw",
+  "tagline": "Outrun the giant saw",
+  "emoji": "🪚",
+  "colorHex": "A78BFA",
+  "slot": 43
+ },
+ {
+  "gameID": "arrowrogue",
+  "name": "Arrow Rogue",
+  "tagline": "Shoot, dodge, clear the rooms",
+  "emoji": "🏹",
+  "colorHex": "FF5C6C",
+  "slot": 44
+ },
+ {
+  "gameID": "holefeast",
+  "name": "Hole Feast",
+  "tagline": "Swallow the city, grow the hole",
+  "emoji": "🕳️",
+  "colorHex": "5B8CFF",
+  "slot": 45
+ },
+ {
+  "gameID": "fortressfall",
+  "name": "Fortress Fall",
+  "tagline": "Ten minutes. Seven dwarves. One doom.",
+  "emoji": "⛏️",
+  "colorHex": "FF9F43",
+  "slot": 46
+ },
+ {
+  "gameID": "stickleague",
+  "name": "Stick League",
+  "tagline": "Strike, block, throw, win the belt",
+  "emoji": "🥋",
+  "colorHex": "FF5C6C",
+  "slot": 47
+ },
+ {
+  "gameID": "ashenpath",
+  "name": "Ashen Path",
+  "tagline": "Every enemy can kill you. Learn.",
+  "emoji": "🗡️",
+  "colorHex": "A78BFA",
+  "slot": 48
+ },
+ {
+  "gameID": "yetiswing",
+  "name": "Yeti Swing",
+  "tagline": "Time the swing, launch the penguin",
+  "emoji": "🐧",
+  "colorHex": "5B8CFF",
+  "slot": 49
+ },
+ {
+  "gameID": "pieboss",
+  "name": "Pie Boss",
+  "tagline": "Pie the boss, dodge the guards",
+  "emoji": "🥧",
+  "colorHex": "FF9F43",
+  "slot": 50
+ },
+ {
+  "gameID": "ramromeo",
+  "name": "Ram Romeo",
+  "tagline": "Woo the flock, dodge the shepherd",
+  "emoji": "🐏",
+  "colorHex": "4ADE80",
+  "slot": 51
+ },
+ {
+  "gameID": "driftloop",
+  "name": "Drift Loop",
+  "tagline": "One-touch drifting",
+  "emoji": "🏎️",
+  "colorHex": "FF9F43"
+ },
+ {
+  "gameID": "tinytowers",
+  "name": "Tiny Towers TD",
+  "tagline": "Build towers, hold the line",
+  "emoji": "🏰",
+  "colorHex": "4ADE80"
+ },
+ {
+  "gameID": "taptiles",
+  "name": "Tap Tiles",
+  "tagline": "Tap the tiles to the beat",
+  "emoji": "🎹",
+  "colorHex": "A78BFA"
+ },
+ {
+  "gameID": "pegpop",
+  "name": "Peg Pop",
+  "tagline": "Aim, bounce, clear the pegs",
+  "emoji": "🎯",
+  "colorHex": "F472B6"
+ },
+ {
+  "gameID": "goalflick",
+  "name": "Goal Flick",
+  "tagline": "Flick the ball, beat the keeper",
+  "emoji": "⚽️",
+  "colorHex": "4ADE80"
+ },
+ {
+  "gameID": "wormarena",
+  "name": "Worm Arena",
+  "tagline": "Grow your worm, rule the arena",
+  "emoji": "🪱",
+  "colorHex": "2DD4BF"
+ },
+ {
+  "gameID": "slidebloom",
+  "name": "Slide Bloom",
+  "tagline": "Slide the blocks, free the key",
+  "emoji": "🔑",
+  "colorHex": "A78BFA"
+ }
+]
