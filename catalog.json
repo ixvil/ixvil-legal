@@ -302,7 +302,8 @@
   "tagline": "Outrun the giant saw",
   "emoji": "🪚",
   "colorHex": "A78BFA",
-  "slot": 43
+  "slot": 43,
+  "playStore": true
  },
  {
   "gameID": "arrowrogue",
