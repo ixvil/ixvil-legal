@@ -1,0 +1,1511 @@
+{
+ "format": 1,
+ "updated": "2026-10-11",
+ "worlds": [
+  {
+   "format": 1,
+   "id": "ev_2026_10_haunted_sawmill",
+   "rev": 1,
+   "kind": "event",
+   "order": 0,
+   "title": "Haunted Sawmill",
+   "subtitle": "World of the month · October 2026",
+   "minAppVersion": 9,
+   "gateStars": 0,
+   "theme": {
+    "zone": "night",
+    "music": "night",
+    "kit": "sawmill"
+   },
+   "defaults": {
+    "pace": 0,
+    "saw": 1.0,
+    "diff": 0.3
+   },
+   "stages": [
+    {
+     "title": "Creaky Gate",
+     "seed": 441,
+     "diff": 0.2,
+     "pace": 50,
+     "saw": 1.0,
+     "chunks": [
+      {
+       "c": "run",
+       "len": 10,
+       "say": "Haunted Sawmill — TAP to jump, HOLD for higher",
+       "d": 0.1
+      },
+      {
+       "c": "pit",
+       "d": 0.18
+      },
+      {
+       "c": "enemy",
+       "d": 0.21
+      },
+      {
+       "c": "slabs",
+       "d": 0.14
+      },
+      {
+       "c": "pit",
+       "d": 0.28
+      },
+      {
+       "c": "slabs",
+       "d": 0.17
+      },
+      {
+       "c": "enemy",
+       "d": 0.27
+      },
+      {
+       "c": "pit",
+       "d": 0.15
+      },
+      {
+       "c": "gems",
+       "d": 0.2
+      },
+      {
+       "c": "enemy",
+       "d": 0.24
+      },
+      {
+       "c": "pit",
+       "d": 0.19
+      },
+      {
+       "c": "enemy",
+       "d": 0.18
+      },
+      {
+       "c": "slabs",
+       "d": 0.24
+      },
+      {
+       "c": "pit",
+       "d": 0.14
+      },
+      {
+       "c": "enemy",
+       "d": 0.23
+      },
+      {
+       "c": "slabs",
+       "d": 0.27
+      },
+      {
+       "c": "gems",
+       "d": 0.2
+      },
+      {
+       "c": "enemy",
+       "d": 0.23
+      },
+      {
+       "c": "pit",
+       "d": 0.28
+      },
+      {
+       "c": "gems",
+       "d": 0.2
+      },
+      {
+       "c": "slabs",
+       "d": 0.23
+      },
+      {
+       "c": "pit",
+       "d": 0.27
+      },
+      {
+       "c": "gems",
+       "d": 0.2
+      },
+      {
+       "c": "slabs",
+       "d": 0.14
+      }
+     ]
+    },
+    {
+     "title": "Pumpkin Patch",
+     "seed": 442,
+     "diff": 0.3,
+     "pace": 130,
+     "saw": 1.0,
+     "chunks": [
+      {
+       "c": "gems",
+       "d": 0.15
+      },
+      {
+       "c": "slabs",
+       "d": 0.23
+      },
+      {
+       "c": "pit",
+       "d": 0.34
+      },
+      {
+       "c": "run",
+       "d": 0.3
+      },
+      {
+       "c": "spikes",
+       "d": 0.28
+      },
+      {
+       "c": "pit",
+       "d": 0.36
+      },
+      {
+       "c": "crates",
+       "d": 0.36
+      },
+      {
+       "c": "pit",
+       "d": 0.36
+      },
+      {
+       "c": "spikes",
+       "d": 0.35
+      },
+      {
+       "c": "gems",
+       "d": 0.3
+      },
+      {
+       "c": "crates",
+       "d": 0.27
+      },
+      {
+       "c": "enemy",
+       "d": 0.24
+      },
+      {
+       "c": "slabs",
+       "d": 0.24
+      },
+      {
+       "c": "crates",
+       "d": 0.33
+      },
+      {
+       "c": "slabs",
+       "d": 0.37
+      },
+      {
+       "c": "enemy",
+       "d": 0.23
+      },
+      {
+       "c": "slabs",
+       "d": 0.38
+      },
+      {
+       "c": "crates",
+       "d": 0.32
+      },
+      {
+       "c": "pit",
+       "d": 0.36
+      },
+      {
+       "c": "slabs",
+       "d": 0.35
+      },
+      {
+       "c": "pit",
+       "d": 0.35
+      },
+      {
+       "c": "enemy",
+       "d": 0.29
+      },
+      {
+       "c": "slabs",
+       "d": 0.27
+      },
+      {
+       "c": "enemy",
+       "d": 0.34
+      },
+      {
+       "c": "slabs",
+       "d": 0.24
+      },
+      {
+       "c": "run",
+       "d": 0.3
+      },
+      {
+       "c": "spikes",
+       "d": 0.36
+      }
+     ]
+    },
+    {
+     "title": "Ghost Lights",
+     "seed": 443,
+     "diff": 0.36,
+     "pace": 190,
+     "saw": 1.0,
+     "chunks": [
+      {
+       "c": "gems",
+       "d": 0.18
+      },
+      {
+       "c": "vent",
+       "n": 1,
+       "d": 0.2,
+       "say": "Ghost fire: pass when it's out"
+      },
+      {
+       "c": "enemy",
+       "d": 0.3
+      },
+      {
+       "c": "spikes",
+       "d": 0.38
+      },
+      {
+       "c": "enemy",
+       "d": 0.3
+      },
+      {
+       "c": "run",
+       "d": 0.36
+      },
+      {
+       "c": "slabs",
+       "d": 0.4
+      },
+      {
+       "c": "vent",
+       "d": 0.38
+      },
+      {
+       "c": "slabs",
+       "d": 0.36
+      },
+      {
+       "c": "pit",
+       "d": 0.36
+      },
+      {
+       "c": "vent",
+       "d": 0.33
+      },
+      {
+       "c": "spikes",
+       "d": 0.38
+      },
+      {
+       "c": "vent",
+       "d": 0.32
+      },
+      {
+       "c": "slabs",
+       "d": 0.4
+      },
+      {
+       "c": "gems",
+       "d": 0.36
+      },
+      {
+       "c": "pit",
+       "d": 0.42
+      },
+      {
+       "c": "enemy",
+       "d": 0.3
+      },
+      {
+       "c": "slabs",
+       "d": 0.4
+      },
+      {
+       "c": "gems",
+       "d": 0.36
+      },
+      {
+       "c": "spikes",
+       "d": 0.37
+      },
+      {
+       "c": "pit",
+       "d": 0.32
+      },
+      {
+       "c": "enemy",
+       "d": 0.3
+      },
+      {
+       "c": "run",
+       "d": 0.36
+      },
+      {
+       "c": "vent",
+       "d": 0.39
+      },
+      {
+       "c": "enemy",
+       "d": 0.34
+      },
+      {
+       "c": "pit",
+       "d": 0.35
+      },
+      {
+       "c": "gems",
+       "d": 0.36
+      },
+      {
+       "c": "spikes",
+       "d": 0.35
+      }
+     ]
+    },
+    {
+     "title": "Bone Belts",
+     "seed": 444,
+     "diff": 0.56,
+     "pace": 560,
+     "saw": 1.0,
+     "chunks": [
+      {
+       "c": "gems",
+       "d": 0.28
+      },
+      {
+       "c": "slabs",
+       "d": 0.49
+      },
+      {
+       "c": "vent",
+       "d": 0.49
+      },
+      {
+       "c": "spikes",
+       "d": 0.62
+      },
+      {
+       "c": "pit",
+       "d": 0.52
+      },
+      {
+       "c": "crates",
+       "d": 0.62
+      },
+      {
+       "c": "run",
+       "d": 0.56
+      },
+      {
+       "c": "pit",
+       "d": 0.52
+      },
+      {
+       "c": "vent",
+       "d": 0.59
+      },
+      {
+       "c": "spikes",
+       "d": 0.54
+      },
+      {
+       "c": "pop",
+       "d": 0.55
+      },
+      {
+       "c": "vent",
+       "d": 0.6,
+       "dark": true
+      },
+      {
+       "c": "pit",
+       "d": 0.59,
+       "dark": true
+      },
+      {
+       "c": "enemy",
+       "d": 0.59,
+       "dark": true
+      },
+      {
+       "c": "slabs",
+       "d": 0.63,
+       "dark": true
+      },
+      {
+       "c": "crates",
+       "d": 0.61
+      },
+      {
+       "c": "gems",
+       "d": 0.56
+      },
+      {
+       "c": "enemy",
+       "d": 0.59
+      },
+      {
+       "c": "pit",
+       "d": 0.52
+      },
+      {
+       "c": "enemy",
+       "d": 0.56
+      },
+      {
+       "c": "slabs",
+       "d": 0.62
+      },
+      {
+       "c": "enemy",
+       "d": 0.62
+      },
+      {
+       "c": "vent",
+       "d": 0.5
+      },
+      {
+       "c": "pop",
+       "d": 0.56
+      },
+      {
+       "c": "enemy",
+       "d": 0.49
+      },
+      {
+       "c": "gems",
+       "d": 0.56
+      },
+      {
+       "c": "pit",
+       "d": 0.49
+      },
+      {
+       "c": "crates",
+       "d": 0.58
+      },
+      {
+       "c": "slabs",
+       "d": 0.6
+      },
+      {
+       "c": "pit",
+       "d": 0.59
+      },
+      {
+       "c": "spikes",
+       "d": 0.62
+      }
+     ]
+    },
+    {
+     "title": "Haunted Mill",
+     "seed": 445,
+     "diff": 0.62,
+     "pace": 650,
+     "saw": 1.0,
+     "chunks": [
+      {
+       "c": "gems",
+       "dark": true,
+       "say": "LIGHTS OUT — follow the lanterns",
+       "d": 0.31
+      },
+      {
+       "c": "spikes",
+       "d": 0.67
+      },
+      {
+       "c": "vent",
+       "d": 0.56
+      },
+      {
+       "c": "pop",
+       "d": 0.69
+      },
+      {
+       "c": "pit",
+       "d": 0.56
+      },
+      {
+       "c": "slabs",
+       "d": 0.56
+      },
+      {
+       "c": "pop",
+       "d": 0.62
+      },
+      {
+       "c": "slabs",
+       "d": 0.55
+      },
+      {
+       "c": "buzz",
+       "d": 0.7
+      },
+      {
+       "c": "pit",
+       "d": 0.69
+      },
+      {
+       "c": "slabs",
+       "d": 0.58
+      },
+      {
+       "c": "run",
+       "d": 0.62,
+       "dark": true
+      },
+      {
+       "c": "pop",
+       "d": 0.56,
+       "dark": true
+      },
+      {
+       "c": "vent",
+       "d": 0.59,
+       "dark": true
+      },
+      {
+       "c": "pop",
+       "d": 0.64,
+       "dark": true
+      },
+      {
+       "c": "run",
+       "d": 0.62
+      },
+      {
+       "c": "spikes",
+       "d": 0.64
+      },
+      {
+       "c": "dpit",
+       "d": 0.63,
+       "say": "TAP AGAIN in the air — double jump!"
+      },
+      {
+       "c": "gems",
+       "d": 0.62
+      },
+      {
+       "c": "spikes",
+       "d": 0.62
+      },
+      {
+       "c": "buzz",
+       "d": 0.6
+      },
+      {
+       "c": "pop",
+       "d": 0.61
+      },
+      {
+       "c": "vent",
+       "d": 0.66
+      },
+      {
+       "c": "pit",
+       "d": 0.57
+      },
+      {
+       "c": "crates",
+       "d": 0.69
+      },
+      {
+       "c": "enemy",
+       "d": 0.67
+      },
+      {
+       "c": "buzz",
+       "d": 0.61
+      },
+      {
+       "c": "slabs",
+       "d": 0.62
+      },
+      {
+       "c": "gems",
+       "d": 0.62
+      },
+      {
+       "c": "vent",
+       "d": 0.69
+      },
+      {
+       "c": "spikes",
+       "d": 0.61
+      },
+      {
+       "c": "pop",
+       "d": 0.66
+      }
+     ],
+     "checkpoint": 16
+    },
+    {
+     "title": "Witching Hour",
+     "seed": 446,
+     "diff": 0.62,
+     "pace": 650,
+     "saw": 1.0,
+     "chunks": [
+      {
+       "c": "gems",
+       "d": 0.31
+      },
+      {
+       "c": "spikes",
+       "d": 0.59
+      },
+      {
+       "c": "collapse",
+       "d": 0.62
+      },
+      {
+       "c": "crates",
+       "d": 0.56
+      },
+      {
+       "c": "slabs",
+       "d": 0.63
+      },
+      {
+       "c": "crates",
+       "d": 0.58
+      },
+      {
+       "c": "pop",
+       "d": 0.67
+      },
+      {
+       "c": "slabs",
+       "d": 0.62
+      },
+      {
+       "c": "crates",
+       "d": 0.57
+      },
+      {
+       "c": "slabs",
+       "d": 0.66
+      },
+      {
+       "c": "vent",
+       "d": 0.67,
+       "dark": true
+      },
+      {
+       "c": "pit",
+       "d": 0.66,
+       "dark": true
+      },
+      {
+       "c": "vent",
+       "d": 0.55,
+       "dark": true
+      },
+      {
+       "c": "pit",
+       "d": 0.58,
+       "dark": true
+      },
+      {
+       "c": "vent",
+       "d": 0.55
+      },
+      {
+       "c": "pit",
+       "d": 0.67
+      },
+      {
+       "c": "collapse",
+       "d": 0.62
+      },
+      {
+       "c": "dpit",
+       "d": 0.57
+      },
+      {
+       "c": "gems",
+       "d": 0.62
+      },
+      {
+       "c": "enemy",
+       "d": 0.55
+      },
+      {
+       "c": "crates",
+       "d": 0.54
+      },
+      {
+       "c": "enemy",
+       "d": 0.7
+      },
+      {
+       "c": "crates",
+       "d": 0.58
+      },
+      {
+       "c": "dpit",
+       "d": 0.63
+      },
+      {
+       "c": "collapse",
+       "d": 0.6
+      },
+      {
+       "c": "crates",
+       "d": 0.63
+      },
+      {
+       "c": "vent",
+       "d": 0.62
+      },
+      {
+       "c": "dpit",
+       "d": 0.59
+      }
+     ],
+     "checkpoint": 14
+    },
+    {
+     "title": "Grave Danger",
+     "seed": 447,
+     "diff": 0.7,
+     "pace": 750,
+     "saw": 1.0,
+     "chunks": [
+      {
+       "c": "gems",
+       "d": 0.35
+      },
+      {
+       "c": "buzz",
+       "d": 0.73
+      },
+      {
+       "c": "spikes",
+       "d": 0.66
+      },
+      {
+       "c": "buzz",
+       "d": 0.73
+      },
+      {
+       "c": "spikes",
+       "d": 0.67
+      },
+      {
+       "c": "dpit",
+       "d": 0.69
+      },
+      {
+       "c": "enemy",
+       "d": 0.7
+      },
+      {
+       "c": "dpit",
+       "d": 0.75
+      },
+      {
+       "c": "slabs",
+       "d": 0.63
+      },
+      {
+       "c": "crates",
+       "d": 0.76
+      },
+      {
+       "c": "collapse",
+       "d": 0.63,
+       "dark": true
+      },
+      {
+       "c": "slabs",
+       "d": 0.67,
+       "dark": true
+      },
+      {
+       "c": "gems",
+       "d": 0.7,
+       "dark": true
+      },
+      {
+       "c": "enemy",
+       "d": 0.63,
+       "dark": true
+      },
+      {
+       "c": "vent",
+       "d": 0.64
+      },
+      {
+       "c": "rogue",
+       "d": 0.76,
+       "say": "Rolling saw ahead — HOLD the jump!"
+      },
+      {
+       "c": "dpit",
+       "d": 0.63
+      },
+      {
+       "c": "gems",
+       "d": 0.7
+      },
+      {
+       "c": "rogue",
+       "d": 0.69
+      },
+      {
+       "c": "buzz",
+       "d": 0.67
+      },
+      {
+       "c": "spikes",
+       "d": 0.64
+      },
+      {
+       "c": "buzz",
+       "d": 0.75
+      },
+      {
+       "c": "pop",
+       "d": 0.75
+      },
+      {
+       "c": "rogue",
+       "d": 0.68
+      },
+      {
+       "c": "gems",
+       "d": 0.7
+      },
+      {
+       "c": "pop",
+       "d": 0.71
+      },
+      {
+       "c": "spikes",
+       "d": 0.75
+      },
+      {
+       "c": "pop",
+       "d": 0.64
+      }
+     ],
+     "checkpoint": 14
+    },
+    {
+     "title": "Midnight Saw",
+     "seed": 448,
+     "diff": 0.76,
+     "pace": 850,
+     "saw": 1.0,
+     "chunks": [
+      {
+       "c": "gems",
+       "d": 0.38
+      },
+      {
+       "c": "vent",
+       "d": 0.72
+      },
+      {
+       "c": "rogue",
+       "d": 0.71
+      },
+      {
+       "c": "slabs",
+       "d": 0.84
+      },
+      {
+       "c": "buzz",
+       "d": 0.7
+      },
+      {
+       "c": "spikes",
+       "d": 0.76
+      },
+      {
+       "c": "vent",
+       "d": 0.73
+      },
+      {
+       "c": "valley",
+       "d": 0.77
+      },
+      {
+       "c": "slabs",
+       "d": 0.8,
+       "dark": true
+      },
+      {
+       "c": "valley",
+       "d": 0.71,
+       "dark": true
+      },
+      {
+       "c": "spikes",
+       "d": 0.8,
+       "dark": true
+      },
+      {
+       "c": "collapse",
+       "d": 0.69,
+       "dark": true
+      },
+      {
+       "c": "slabs",
+       "d": 0.76
+      },
+      {
+       "c": "collapse",
+       "d": 0.71
+      },
+      {
+       "c": "enemy",
+       "d": 0.76
+      },
+      {
+       "c": "pit",
+       "d": 0.7
+      },
+      {
+       "c": "pop",
+       "d": 0.76
+      },
+      {
+       "c": "valley",
+       "d": 0.71
+      },
+      {
+       "c": "pop",
+       "d": 0.75
+      },
+      {
+       "c": "crates",
+       "d": 0.79
+      },
+      {
+       "c": "collapse",
+       "d": 0.78
+      },
+      {
+       "c": "pop",
+       "d": 0.82
+      },
+      {
+       "c": "collapse",
+       "d": 0.81
+      },
+      {
+       "c": "pop",
+       "d": 0.71
+      }
+     ],
+     "checkpoint": 12
+    }
+   ],
+   "boss": {
+    "title": "THE MILL SAW",
+    "seed": 4190,
+    "pace": 1100,
+    "sawScale": 2.0,
+    "phases": [
+     {
+      "title": "THE MILL WAKES",
+      "moves": [
+       {
+        "m": "bigSaw",
+        "beat": 3.6,
+        "warn": 1.0,
+        "end": 1.3,
+        "first": 1.5
+       }
+      ],
+      "chunks": [
+       {
+        "c": "run",
+        "d": 0.3,
+        "len": 12
+       },
+       {
+        "c": "pit",
+        "d": 0.55
+       },
+       {
+        "c": "enemy",
+        "d": 0.55
+       },
+       {
+        "c": "vent",
+        "d": 0.5,
+        "n": 1
+       },
+       {
+        "c": "pit",
+        "d": 0.55
+       },
+       {
+        "c": "slabs",
+        "d": 0.55
+       },
+       {
+        "c": "spikes",
+        "d": 0.55
+       },
+       {
+        "c": "run",
+        "d": 0.3,
+        "len": 12
+       },
+       {
+        "c": "pit",
+        "d": 0.6
+       },
+       {
+        "c": "enemy",
+        "d": 0.55
+       },
+       {
+        "c": "slabs",
+        "d": 0.6
+       },
+       {
+        "c": "pit",
+        "d": 0.6
+       },
+       {
+        "c": "run",
+        "d": 0.3,
+        "len": 12
+       },
+       {
+        "c": "crates",
+        "d": 0.6
+       },
+       {
+        "c": "pit",
+        "d": 0.6
+       }
+      ]
+     },
+     {
+      "title": "GHOST TRAIN",
+      "moves": [
+       {
+        "m": "pressTrain",
+        "n": 4,
+        "spacing": 4.4,
+        "speed": -3.6,
+        "every": 32,
+        "ahead": 26
+       }
+      ],
+      "chunks": [
+       {
+        "c": "belt",
+        "d": 0.6,
+        "back": true,
+        "len": 6.5
+       },
+       {
+        "c": "pit",
+        "d": 0.6
+       },
+       {
+        "c": "rammer",
+        "d": 0.6
+       },
+       {
+        "c": "crusher",
+        "d": 0.6,
+        "n": 2
+       },
+       {
+        "c": "belt",
+        "d": 0.6,
+        "back": true,
+        "len": 6.5
+       },
+       {
+        "c": "pit",
+        "d": 0.6
+       },
+       {
+        "c": "run",
+        "d": 0.3,
+        "len": 12
+       },
+       {
+        "c": "belt",
+        "d": 0.6,
+        "back": true,
+        "len": 6.5
+       },
+       {
+        "c": "crusher",
+        "d": 0.6,
+        "n": 2
+       },
+       {
+        "c": "pit",
+        "d": 0.6
+       },
+       {
+        "c": "crates",
+        "d": 0.6
+       },
+       {
+        "c": "run",
+        "d": 0.3,
+        "len": 12
+       }
+      ]
+     },
+     {
+      "title": "MIDNIGHT",
+      "moves": [
+       {
+        "m": "bigSaw",
+        "beat": 3.2,
+        "warn": 0.9,
+        "end": 1.2,
+        "first": 1.5
+       },
+       {
+        "m": "pressTrain",
+        "n": 4,
+        "spacing": 4.4,
+        "speed": -3.6,
+        "every": 32,
+        "ahead": 26
+       }
+      ],
+      "chunks": [
+       {
+        "c": "belt",
+        "d": 0.7,
+        "back": true,
+        "len": 6.5
+       },
+       {
+        "c": "buzz",
+        "d": 0.65
+       },
+       {
+        "c": "crusher",
+        "d": 0.7,
+        "n": 2
+       },
+       {
+        "c": "pit",
+        "d": 0.7
+       },
+       {
+        "c": "slabs",
+        "d": 0.65
+       },
+       {
+        "c": "belt",
+        "d": 0.7,
+        "back": true,
+        "len": 6.5
+       },
+       {
+        "c": "pit",
+        "d": 0.7
+       },
+       {
+        "c": "run",
+        "d": 0.3,
+        "len": 12
+       },
+       {
+        "c": "enemy",
+        "d": 0.65
+       },
+       {
+        "c": "crusher",
+        "d": 0.7,
+        "n": 2
+       },
+       {
+        "c": "pit",
+        "d": 0.7
+       },
+       {
+        "c": "belt",
+        "d": 0.7,
+        "back": true,
+        "len": 6.5
+       },
+       {
+        "c": "slabs",
+        "d": 0.65
+       },
+       {
+        "c": "run",
+        "d": 0.3,
+        "len": 10
+       }
+      ]
+     }
+    ]
+   },
+   "nightmare": {
+    "title": "NIGHTMARE MILL",
+    "seed": 4204,
+    "pace": 1000,
+    "sawScale": 2.0,
+    "phases": [
+     {
+      "title": "THE SAW AWAKES",
+      "moves": [
+       {
+        "m": "bigSaw",
+        "beat": 3.4,
+        "warn": 0.8,
+        "end": 1.2,
+        "first": 1.5
+       },
+       {
+        "m": "twinSaws",
+        "every": 1.9,
+        "speed": 6.0,
+        "ahead": 22,
+        "first": 1.5,
+        "pair": 3.4
+       }
+      ],
+      "chunks": [
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 14
+       },
+       {
+        "c": "hill",
+        "d": 0.5
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 13
+       },
+       {
+        "c": "valley",
+        "d": 0.5
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 13
+       },
+       {
+        "c": "hill",
+        "d": 0.55
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 13
+       },
+       {
+        "c": "slabs",
+        "d": 0.5
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 13
+       },
+       {
+        "c": "hill",
+        "d": 0.55
+       },
+       {
+        "c": "run",
+        "d": 0.45,
+        "len": 13
+       },
+       {
+        "c": "hill",
+        "d": 0.8
+       },
+       {
+        "c": "run",
+        "d": 0.45,
+        "len": 13
+       },
+       {
+        "c": "valley",
+        "d": 0.8
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 12
+       }
+      ]
+     },
+     {
+      "title": "OUT OF THE FIRE",
+      "moves": [
+       {
+        "m": "fireFloor",
+        "rate": 2.0,
+        "warn": 0.8,
+        "below": 1.6
+       },
+       {
+        "m": "twinSaws",
+        "every": 2.1,
+        "speed": 6.0,
+        "ahead": 22,
+        "first": 1.5,
+        "pair": 3.4
+       }
+      ],
+      "chunks": [
+       {
+        "c": "climb",
+        "d": 0.75
+       },
+       {
+        "c": "run",
+        "d": 0.5,
+        "len": 14
+       },
+       {
+        "c": "climb",
+        "d": 0.85
+       },
+       {
+        "c": "run",
+        "d": 0.5,
+        "len": 12
+       }
+      ]
+     },
+     {
+      "title": "NIGHTMARE",
+      "moves": [
+       {
+        "m": "twinSaws",
+        "every": 1.5,
+        "speed": 7.0,
+        "ahead": 22,
+        "first": 1.5,
+        "pair": 3.4
+       },
+       {
+        "m": "bigSaw",
+        "beat": 3.2,
+        "warn": 0.8,
+        "end": 1.2,
+        "first": 1.5
+       }
+      ],
+      "chunks": [
+       {
+        "c": "switchback",
+        "d": 0.8
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 14
+       },
+       {
+        "c": "hill",
+        "d": 0.8
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 12
+       },
+       {
+        "c": "valley",
+        "d": 0.8
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 13
+       },
+       {
+        "c": "slabs",
+        "d": 0.75
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 14
+       },
+       {
+        "c": "hill",
+        "d": 0.85
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 13
+       },
+       {
+        "c": "dpit",
+        "d": 0.75
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 13
+       },
+       {
+        "c": "hill",
+        "d": 0.85
+       },
+       {
+        "c": "run",
+        "d": 0.45,
+        "len": 13
+       },
+       {
+        "c": "hill",
+        "d": 0.85
+       },
+       {
+        "c": "run",
+        "d": 0.45,
+        "len": 13
+       },
+       {
+        "c": "valley",
+        "d": 0.85
+       },
+       {
+        "c": "run",
+        "d": 0.4,
+        "len": 12
+       }
+      ]
+     }
+    ]
+   },
+   "start": "2026-10-01",
+   "end": "2026-11-01",
+   "skin": "pumpkin_ninja"
+  }
+ ]
+}
