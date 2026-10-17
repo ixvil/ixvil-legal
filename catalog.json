@@ -4,7 +4,8 @@
     "name": "Block Bloom",
     "tagline": "Block puzzle with juicy combos",
     "emoji": "🧩",
-    "colorHex": "FFD93D"
+    "colorHex": "FFD93D",
+    "playStore": true
   },
   {
     "gameID": "colorpour",
