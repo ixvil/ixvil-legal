@@ -423,5 +423,12 @@
     "tagline": "Slide the blocks, free the key",
     "emoji": "🔑",
     "colorHex": "A78BFA"
+  },
+  {
+    "gameID": "echoknight",
+    "name": "Echo Knight",
+    "tagline": "Every attempt becomes an ally",
+    "emoji": "⏳",
+    "colorHex": "E8B04A"
   }
 ]
