@@ -331,7 +331,8 @@
     "tagline": "Ten minutes. Seven dwarves. One doom.",
     "emoji": "⛏️",
     "colorHex": "FF9F43",
-    "slot": 46
+    "slot": 46,
+    "playStore": true
   },
   {
     "gameID": "stickleague",
