@@ -124,7 +124,8 @@
     "name": "Dot Link",
     "tagline": "Connect the dots, clear the board",
     "emoji": "🔵",
-    "colorHex": "5B8CFF"
+    "colorHex": "5B8CFF",
+    "playStore": true
   },
   {
     "gameID": "floodbloom",
