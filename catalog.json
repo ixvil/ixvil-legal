@@ -433,6 +433,7 @@
     "name": "Echo Knight",
     "tagline": "Every attempt becomes an ally",
     "emoji": "⏳",
-    "colorHex": "E8B04A"
+    "colorHex": "E8B04A",
+    "playStore": true
   }
 ]
