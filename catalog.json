@@ -35,7 +35,8 @@
     "name": "Pop Bloom",
     "tagline": "Tap groups, blast the board",
     "emoji": "💥",
-    "colorHex": "FF5C6C"
+    "colorHex": "FF5C6C",
+    "playStore": true
   },
   {
     "gameID": "screwsort",
