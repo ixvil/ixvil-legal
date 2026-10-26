@@ -415,7 +415,8 @@
     "name": "Goal Flick",
     "tagline": "Flick the ball, beat the keeper",
     "emoji": "⚽️",
-    "colorHex": "4ADE80"
+    "colorHex": "4ADE80",
+    "playStore": true
   },
   {
     "gameID": "wormarena",
