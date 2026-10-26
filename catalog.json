@@ -54,7 +54,8 @@
     "name": "Car Jam",
     "tagline": "Clear the parking lot",
     "emoji": "🚗",
-    "colorHex": "4ADE80"
+    "colorHex": "4ADE80",
+    "playStore": true
   },
   {
     "gameID": "bubblebloom",
