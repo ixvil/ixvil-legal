@@ -96,7 +96,8 @@
     "name": "Sudoku Bloom",
     "tagline": "Daily sudoku, four difficulties",
     "emoji": "🔢",
-    "colorHex": "A78BFA"
+    "colorHex": "A78BFA",
+    "playStore": true
   },
   {
     "gameID": "towerstack",
