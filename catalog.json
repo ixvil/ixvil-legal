@@ -61,7 +61,8 @@
     "name": "Bubble Bloom",
     "tagline": "Aim, pop, drop the bubbles",
     "emoji": "🫧",
-    "colorHex": "5B8CFF"
+    "colorHex": "5B8CFF",
+    "playStore": true
   },
   {
     "gameID": "solitairebloom",
