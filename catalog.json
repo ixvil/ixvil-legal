@@ -390,7 +390,8 @@
     "name": "Tiny Towers TD",
     "tagline": "Build towers, hold the line",
     "emoji": "🏰",
-    "colorHex": "4ADE80"
+    "colorHex": "4ADE80",
+    "playStore": true
   },
   {
     "gameID": "taptiles",
