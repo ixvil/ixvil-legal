@@ -85,7 +85,8 @@
     "name": "Goods Shelf",
     "tagline": "Sort the goods, match three",
     "emoji": "🛒",
-    "colorHex": "FF9F43"
+    "colorHex": "FF9F43",
+    "playStore": true
   },
   {
     "gameID": "sweetswap",
