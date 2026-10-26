@@ -48,7 +48,8 @@
     "name": "Hexa Stack",
     "tagline": "Stack hexes, merge colors",
     "emoji": "⬡",
-    "colorHex": "A78BFA"
+    "colorHex": "A78BFA",
+    "playStore": true
   },
   {
     "gameID": "carjam",
