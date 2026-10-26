@@ -80,7 +80,8 @@
     "name": "Pixel Cross",
     "tagline": "Nonogram picture puzzles",
     "emoji": "🧩",
-    "colorHex": "2DD4BF"
+    "colorHex": "2DD4BF",
+    "playStore": true
   },
   {
     "gameID": "goodsshelf",
