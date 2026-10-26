@@ -20,7 +20,8 @@
     "name": "Merge Drop",
     "tagline": "Drop, merge, reach 2048 and beyond",
     "emoji": "🔢",
-    "colorHex": "5B8CFF"
+    "colorHex": "5B8CFF",
+    "playStore": true
   },
   {
     "gameID": "tiletrio",
