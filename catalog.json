@@ -240,7 +240,8 @@
     "tagline": "Tap through matching colors",
     "emoji": "🎨",
     "colorHex": "F472B6",
-    "slot": 34
+    "slot": 34,
+    "playStore": true
   },
   {
     "gameID": "swingstar",
