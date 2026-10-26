@@ -330,7 +330,8 @@
     "tagline": "Swallow the city, grow the hole",
     "emoji": "🕳️",
     "colorHex": "5B8CFF",
-    "slot": 45
+    "slot": 45,
+    "playStore": true
   },
   {
     "gameID": "fortressfall",
