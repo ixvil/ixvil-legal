@@ -273,7 +273,8 @@
     "tagline": "Hop across roads and rivers",
     "emoji": "🐸",
     "colorHex": "4ADE80",
-    "slot": 38
+    "slot": 38,
+    "playStore": true
   },
   {
     "gameID": "snakesmash",
