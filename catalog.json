@@ -415,7 +415,8 @@
     "name": "Peg Pop",
     "tagline": "Aim, bounce, clear the pegs",
     "emoji": "🎯",
-    "colorHex": "F472B6"
+    "colorHex": "F472B6",
+    "playStore": true
   },
   {
     "gameID": "goalflick",
