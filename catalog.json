@@ -232,7 +232,8 @@
     "tagline": "Drop fruits, merge to a melon",
     "emoji": "🍉",
     "colorHex": "4ADE80",
-    "slot": 33
+    "slot": 33,
+    "playStore": true
   },
   {
     "gameID": "huehop",
