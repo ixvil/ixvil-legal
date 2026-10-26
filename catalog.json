@@ -12,7 +12,8 @@
     "name": "Color Pour",
     "tagline": "Sort the colors, clear your mind",
     "emoji": "🧪",
-    "colorHex": "2DD4BF"
+    "colorHex": "2DD4BF",
+    "playStore": true
   },
   {
     "gameID": "mergedrop",
