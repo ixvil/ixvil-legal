@@ -328,7 +328,8 @@
     "tagline": "Shoot, dodge, clear the rooms",
     "emoji": "🏹",
     "colorHex": "FF5C6C",
-    "slot": 44
+    "slot": 44,
+    "playStore": true
   },
   {
     "gameID": "holefeast",
